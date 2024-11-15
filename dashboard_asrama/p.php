@@ -11,3 +11,6 @@
 <?php
     include "template/script.php"
 ?>
+<?php
+    echo 'maksud';
+?>
